@@ -1,0 +1,10 @@
+{
+    "user": {
+        "roles": [
+            "manger",
+            "finace",
+            "admin"
+        ],
+        "name": "name of the user"
+    }
+}

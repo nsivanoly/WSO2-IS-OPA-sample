@@ -1,0 +1,12 @@
+node_modules
+.env
+.idea
+.nyc_output
+*.zip
+build
+/postgres.sh
+/test.js
+/src/seeders/*temp*
+/info
+/.firebase.config.json
+opa
